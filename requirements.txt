@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+torch>=2.9.0
+transformers>=4.38.0
+sentence-transformers>=2.5.1
+faiss-cpu>=1.8.0
+numpy>=1.24.3
+accelerate>=0.27.0
+datasets>=2.17.0
