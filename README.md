@@ -54,11 +54,11 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
-⏰ **Note** : L'installation peut prendre 5-10 minutes (PyTorch est lourd).
+**Note** : L'installation peut prendre 5-10 minutes (PyTorch est lourd).
 
 ---
 
-## 🎮 Lancement de l'application
+##  Lancement de l'application
 
 ```bash
 streamlit run app.py
@@ -119,7 +119,7 @@ chatbot_rag/
 - Affichage des documents sources
 - Scores de similarité visibles
 
-### 🔮 Extensions possibles
+###  Extensions possibles
 - Ajout de fichiers PDF/TXT comme documents
 - Découpage automatique en chunks
 - Fine-tuning du modèle génératif
@@ -209,4 +209,3 @@ Pour améliorer le projet :
 
 ---
 
-**Bon développement ! 🚀**
