@@ -1,6 +1,6 @@
 # Chatbot RAG avec Streamlit
 
-## 🎯 Projet Académique
+##  Projet Académique
 
 Chatbot intelligent utilisant un système RAG (Retrieval-Augmented Generation) avec interface Streamlit.
 
@@ -12,7 +12,7 @@ Chatbot intelligent utilisant un système RAG (Retrieval-Augmented Generation) a
 
 ---
 
-## 📋 Prérequis
+##  Prérequis
 
 - Python 3.8 ou supérieur
 - Windows 12
@@ -21,7 +21,7 @@ Chatbot intelligent utilisant un système RAG (Retrieval-Augmented Generation) a
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Créer un dossier pour le projet
 
@@ -68,7 +68,7 @@ L'application s'ouvrira automatiquement dans votre navigateur à l'adresse : `ht
 
 ---
 
-## 📝 Personnaliser la base documentaire
+## Personnaliser la base documentaire
 
 Pour adapter le chatbot à **ton propre sujet**, modifie la fonction `get_documents()` dans `app.py` :
 
@@ -86,15 +86,15 @@ def get_documents():
 ```
 
 ### Exemples de sujets possibles :
-- 📚 Cours de NLP / IA
-- 🏥 Domaine médical
-- 🎓 Support pédagogique d'une matière
-- 💼 Documentation d'entreprise
-- 🔬 Articles scientifiques vulgarisés
+-  Cours de NLP / IA
+-  Domaine médical
+-  Support pédagogique d'une matière
+-  Documentation d'entreprise
+-  Articles scientifiques vulgarisés
 
 ---
 
-## 🛠️ Structure du projet
+##  Structure du projet
 
 ```
 chatbot_rag/
@@ -108,7 +108,7 @@ chatbot_rag/
 
 ---
 
-## 🎨 Fonctionnalités
+##  Fonctionnalités
 
 ### ✅ Implémentées
 - Système RAG complet (Retrieval + Generation)
@@ -128,7 +128,7 @@ chatbot_rag/
 
 ---
 
-## 🧪 Tester le chatbot
+##  Tester le chatbot
 
 ### Questions exemples :
 
@@ -140,7 +140,7 @@ chatbot_rag/
 
 ---
 
-## 🐛 Résolution de problèmes
+##  Résolution de problèmes
 
 ### Problème : Erreur d'import
 ```
@@ -172,7 +172,7 @@ Solution : Réduire max_length dans la fonction generate_answer
 
 ---
 
-## 🎓 Concepts implémentés
+##  Concepts implémentés
 
 - ✅ **Embeddings sémantiques** : Représentation vectorielle du texte
 - ✅ **Similarité cosinus** : Mesure de proximité sémantique
@@ -183,7 +183,7 @@ Solution : Réduire max_length dans la fonction generate_answer
 
 ---
 
-## 👨‍💻 Développement
+##  Développement
 
 Le code est structuré de manière pédagogique avec :
 - Commentaires explicatifs
@@ -193,13 +193,13 @@ Le code est structuré de manière pédagogique avec :
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Projet académique - Libre d'utilisation pour l'apprentissage
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 Pour améliorer le projet :
 1. Ajouter plus de documents
